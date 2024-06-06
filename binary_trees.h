@@ -5,6 +5,7 @@
 
 #define MAX(a, b) ((a) > (b) ? (a) : (b))
 
+
 /**
  * struct binary_tree_s - Binary tree node
  *
@@ -43,4 +44,4 @@ size_t binary_tree_nodes(const binary_tree_t *tree);
 int binary_tree_balance(const binary_tree_t *tree);
 
 
-#endif /* BINARY_TREES_H */
+#endif
