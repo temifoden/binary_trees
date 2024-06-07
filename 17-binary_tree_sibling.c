@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree-sibling - Finds the sibling of a mode
+ * binary_tree_sibling- Finds the sibling of a mode
  * @node: Pointer to the node to find the sibling
  *
  * Return: Pointer to the sibling node, or MULL if no sibling
